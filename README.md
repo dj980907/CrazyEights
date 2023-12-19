@@ -2,6 +2,9 @@
 
 ## Overview
 
+![ezgif com-video-to-gif-converted](https://github.com/dj980907/CrazyEights/assets/108609222/213f3cf9-2e16-4a8b-8da0-94e55f3b09d6)
+
+
 ### Description
 This is a demo of an interactive card game, Crazy Eights, that allows two turns to be played (one "player" turn and one computer turn).
 <ul>
