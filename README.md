@@ -56,6 +56,7 @@ The functions make some assumptions about how I represent a deck of cards.
         ```
         {suit: '❤️', rank: '3'}
         ```
+    
     </ul>
 <li>a deck of cards, the player's hand or the computer's hand… can all be represented by an Array of card objects:
 
