@@ -12,13 +12,11 @@ import clear from 'clear';
 import {readFile} from 'fs';
 import os from 'os';
 
-// node "/Users/dongjoolee/Desktop/NYU/Fall2023/AIT/hw1/homework01-dj980907/bin/game.mjs" "/Users/dongjoolee/Desktop/NYU/Fall2023/AIT/hw1/homework01-dj980907/test/test-01-draw-and-find-an-8.json"
-
 // Function to generate a deck, shuffle, and deal hands
 function initializeGame() {
   const deck = shuffle(generateDeck());
   const players = deal(deck, 2, 5);
-  console.log("this is the players: ", players);
+//   console.log("this is the players: ", players);
   return players;
 }
 
